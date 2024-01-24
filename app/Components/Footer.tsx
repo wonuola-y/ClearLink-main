@@ -40,7 +40,7 @@ const Footer = () => {
     return (
         <footer>
             {/* Column 1 */}
-            <div className="text-gray-600 p-4 flex w-full border-2 border-green-500  ">
+            <div className="text-gray-600 p-4 flex w-full  ">
                 <div className='w-2/6 mr-20'>
                     <h3 className="text-lg font-bold mb-2">                <Image src={Logo} alt="Logo" height={29} width={117} />
                     </h3>
