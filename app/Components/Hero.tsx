@@ -46,10 +46,10 @@ export default function Hero({ }: Props) {
                     <a href="#" className='flex text-blue-700 text-lg  ml-5 items-center font-semibold'> <Image src={Robot} alt='robot icon' className=' mr-3' /> Discover AI Assistant</a>
                 </div>
                 {/* Ratings */}
-                <div className='flex border-2 border-red-500'>
+                <div className='flex '>
                     <Image src={Avatar} alt='avatar' />
                     <div className='ml-4'>
-                        <div className='flex border-2 border-red-500'>
+                        <div className='flex '>
                             <Image src={Rating} alt='Rating' />
                             <i className='not-italic ml-2'>5.0</i>
 
