@@ -47,7 +47,7 @@ const Footer = () => {
                     <p className='text-lg'>ClearLink is your gateway to effortless, high-quality video conferencing. Join us in shaping the future of communication!</p>
                 </div>
                 <div>
-                    <div className="grid grid-cols-5 gap-4 w-full  border-2 border-green-500 ">
+                    <div className="grid grid-cols-5 gap-4 w-full">
 
 
                         {/* Column 2 */}
@@ -72,7 +72,7 @@ const Footer = () => {
 
                 </div>
             </div>
-            <div className="py-12 flex justify-between border-2 border-green-500">
+            <div className="py-12 flex justify-between ">
                 <p>© 2023 ClearLink. All rights reserved.</p>
                 <ul className="flex justify-between">
                     <li className="ml-6">
